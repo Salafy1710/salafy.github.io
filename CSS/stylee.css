@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+#main-header {
+    background-color: white;
+    color: #00247e;
+    font-size: 36px;
+}
+
+p {
+    font-size: 16px;
+    color: black;
+}
+
+.email-link:hover{
+    color: red;
+}
+.contact-info{
+    background-color: rgb(139, 139, 139);
+    padding: 20px;
+}
